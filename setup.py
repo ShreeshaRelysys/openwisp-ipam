@@ -28,7 +28,7 @@ setup(
     author_email='support@openwisp.io',
     description='IP address space administration module of OpenWISP.',
     long_description=README,
-    url='https://github.com/openwisp/openwisp-ipam',
+    url='https://github.com/ShreeshaRelysys/openwisp-ipam',
     download_url='https://github.com/openwisp/openwisp-ipam/releases',
     platforms=['Platform Independent'],
     keywords=['django', 'freeradius', 'networking', 'openwisp'],
